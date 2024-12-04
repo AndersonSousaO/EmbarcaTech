@@ -8,7 +8,8 @@ int main()
               break;
         }
         else{
-            printf("%d ao quadrado: %d\n",i,(i*i));
+            printf("%d ao quadrado! %d\n",i,(i*i));
         }
     }
+
 }        
